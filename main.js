@@ -1,4 +1,4 @@
-
+'use strict';
 // Transparent navbar
 
 const navbar = document.querySelector("#navbar");
